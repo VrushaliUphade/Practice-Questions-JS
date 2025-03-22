@@ -1,4 +1,4 @@
-# 100 JavaScript Questions
+# 🚀100 JavaScript Questions
 
 ## 📌 Introduction
 Welcome to the **100 JavaScript Questions** repository! This project is designed to help you strengthen your JavaScript skills through a structured collection of coding questions. The questions are categorized into three difficulty levels:
@@ -8,7 +8,7 @@ Welcome to the **100 JavaScript Questions** repository! This project is designed
 - **Intermediate Questions** – Includes more complex problem-solving challenges.
 
 ## 📑 Table of Contents
-- [Basic Questions](./Basic_Questions/README.md)
+- [Basic Questions](./Basic%20Questions/Basic.md)
 - [DOM Questions](./DOM_Questions/README.md)
 - [Intermediate Questions](./Intermediate_Questions/README.md)
 
